@@ -1,3 +1,5 @@
+[Português](../analise/04-artilharia.md) · **English**
+
 # Artillery and field weapons
 
 **Bottom line:** balanced, with different philosophies. Colonials have more mobility and bigger calibres on field guns. Wardens have longer-range emplaced artillery and more 250mm variants.

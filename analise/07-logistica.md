@@ -1,3 +1,5 @@
+**Português** · [English](../analysis/07-logistics.md)
+
 # Logística e retaguarda
 
 **Conclusão:** para quem joga na retaguarda, as facções são praticamente iguais. Caminhões e boa parte dos veículos de logística têm os mesmos stats e só mudam de modelo. Facilities, recursos e os navios de logística grandes (Longhook, Bluefin, Bowhead etc.) não têm facção.

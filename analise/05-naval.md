@@ -1,3 +1,5 @@
+**Português** · [English](../analysis/05-naval.md)
+
 # Naval
 
 **Conclusão:** com custos iguais, os navios Colonials têm mais vida em 5 das 9 classes pareadas, contra 2 dos Wardens. A exceção relevante é o submarino: o Nakki Warden é melhor para emboscada.

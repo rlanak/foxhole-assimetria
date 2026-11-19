@@ -1,3 +1,5 @@
+**Português** · [English](../analysis/03-armour.md)
+
 # Veículos e blindados
 
 **Conclusão:** a vantagem Warden é clara em um ponto, o super tanque. Fora dele, os Colonials têm mais vida em quase todas as classes, e os Wardens têm mais velocidade, mais tipos especializados e mais armas anti-infantaria. O padrão atual é **Colonial = mais vida, Warden = mais velocidade e variedade**.

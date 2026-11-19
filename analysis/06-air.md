@@ -1,3 +1,5 @@
+[Português](../analise/06-aereo.md) · **English**
+
 # Air
 
 **Bottom line:** the Wardens are ahead on fighters and anti-ship strikes. At the same cost, the Harbinger has more HP and one more weapon than the Blind Silver. The Austringer threatens large ships, and the Colonials have no dedicated equivalent. Colonial strengths are the amphibious Pegasus and the Poseidon's capacity, the latter limited in practice (see carriers).

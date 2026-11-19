@@ -1,3 +1,5 @@
+**Português** · [English](../analysis/02-infantry.md)
+
 # Infantaria
 
 **Conclusão:** empate técnico, com leve vantagem Colonial nas armas principais. O rifle básico Colonial atira quase 50% mais rápido com o mesmo dano. As vantagens Warden ficam no rifle longo e no pente do SMG.

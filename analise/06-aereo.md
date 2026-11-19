@@ -1,3 +1,5 @@
+**Português** · [English](../analysis/06-air.md)
+
 # Aéreo
 
 **Conclusão:** os Wardens estão à frente nos caças e no ataque a navios. Pelo mesmo custo, o Harbinger tem mais vida e uma arma a mais que o Blind Silver. O Austringer ameaça navios grandes, e os Colonials não têm um equivalente dedicado. As vantagens Colonials são o Pegasus anfíbio e a capacidade do Poseidon, esta limitada na prática (ver porta-aviões).

@@ -1,3 +1,5 @@
+[Português](../analise/01-historico-guerras.md) · **English**
+
 # War history
 
 **Bottom line:** war results don't show a dominant faction. Since 2023 the Wardens have won 24 wars and the Colonials 16. Since the shards merged into LIVE (Update 1.64), it's 4 × 2 for the Colonials, with two stalemates.

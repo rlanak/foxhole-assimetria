@@ -1,3 +1,5 @@
+**Português** · [English](../analysis/04-artillery.md)
+
 # Artilharia e armas de campo
 
 **Conclusão:** equilíbrio com filosofias diferentes. Os Colonials têm mais mobilidade e calibres maiores nas armas de campo. Os Wardens têm artilharia fixa de maior alcance e mais variantes de 250 mm.

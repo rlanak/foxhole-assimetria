@@ -1,3 +1,5 @@
+[Português](../analise/05-naval.md) · **English**
+
 # Naval
 
 **Bottom line:** at equal cost, Colonial ships have more HP in 5 of 9 paired classes, versus 2 for the Wardens. The relevant exception is the submarine: the Warden Nakki is better for ambush.

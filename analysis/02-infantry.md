@@ -1,3 +1,5 @@
+[Português](../analise/02-infantaria.md) · **English**
+
 # Infantry
 
 **Bottom line:** a technical draw, with a slight Colonial edge on the core weapons. The basic Colonial rifle fires almost 50% faster for the same damage. Warden advantages are the long rifle and the SMG magazine.
