@@ -26,4 +26,8 @@ Dados completos em [`data/small-arms.csv`](../data/small-arms.csv).
 - No Update 67 o KLG901-2 Lunaire F levou nerf: recarga de 2 s para 3 s e custo de 15 para 35 refinados, para aproximá-lo do Cutler.
 - Relato da comunidade: a granada Tremola foi reforçada e ficou exclusiva Colonial, o que desequilibrou a economia entre os lançadores de granada das duas facções.
 
-Fontes: [Small Arms](https://foxhole.wiki.gg/wiki/Small_Arms), [Update 67](https://www.foxholegame.com/post/update-67-release-notes)
+## Update 68 dev branch (prévia, ainda não está no LIVE)
+
+Uma correção de bug remove a velocidade extra de corrida que os jogadores tinham com baioneta no Volta r.I Repeater (Colonial) e no The Hangman 757 (Warden). Afeta um fuzil pesado de cada lado, então não muda o equilíbrio entre as facções.
+
+Fontes: [Small Arms](https://foxhole.wiki.gg/wiki/Small_Arms), [Update 67](https://www.foxholegame.com/post/update-67-release-notes), [Update 68 dev branch](https://www.foxholegame.com/post/update-68-dev-branch-released)

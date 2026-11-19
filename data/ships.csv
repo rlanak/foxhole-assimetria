@@ -17,3 +17,7 @@ Colonial,Siege Boat,"Type B ""Lucian""",1800,Shatter missile battery,100 Refined
 Warden,Siege Boat,81f-f Ronan Blackguard,2000,250mm heavy mortar,100 Refined Materials,,https://foxhole.wiki.gg/wiki/Ships
 Colonial,Landing Ship,Interceptor PA-12,2250,None,10 Basic Materials,,https://foxhole.wiki.gg/wiki/Ships
 Warden,Landing Ship,MacConmara Shorerunner,2250,None,10 Basic Materials,,https://foxhole.wiki.gg/wiki/Ships
+Colonial,Light Submarine,"AF-e ""Palaemon""",,"6x torpedo tubes, 12.7mm MG",,"Update 68 dev branch, unreleased; crew 6; 200 L fuel",https://foxhole.wiki.gg/wiki/AF-e_%22Palaemon%22
+Warden,Light Submarine,Hodari,,"6x torpedo tubes, 12.7mm MG",125 Refined Materials,"Update 68 dev branch, unreleased; crew 6; 250 L fuel; 12.4 knots",https://foxhole.wiki.gg/wiki/Hodari
+Colonial,Light Boat,"Type F - ""Abyss Trawler""",,"Sonar array, depth charge launcher",,"Update 68 dev branch, unreleased; no wiki page yet",https://www.foxholegame.com/post/update-68-dev-branch-released
+Warden,Light Boat,Rinnspeir Reefward Patrol Boat,,"Sonar array, depth charge launcher",300 Basic Materials,"Update 68 dev branch, unreleased; crew 3; 250 L fuel",https://foxhole.wiki.gg/wiki/Rinnspeir_Reefward_Patrol_Boat

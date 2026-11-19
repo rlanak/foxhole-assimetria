@@ -28,4 +28,8 @@
 - Submarinos: Nakki caçador × Trident resistente.
 - Artilharia: Colonial móvel × Warden fixa e de maior alcance.
 
-Fontes: esta página resume [Histórico de guerras](01-historico-guerras.md), [Infantaria](02-infantaria.md), [Blindados](03-blindados.md), [Artilharia](04-artilharia.md), [Naval](05-naval.md), [Aéreo](06-aereo.md) e [Logística](07-logistica.md); as páginas do wiki e as notas de patch estão listadas em cada página e em [fontes.md](../fontes.md).
+## Update 68 dev branch (prévia, ainda não está no LIVE)
+
+Nenhum veredito muda. Os novos submarinos leves e caçadores de submarino são espelhados em armamento e tripulação. A única diferença mensurável até agora é o combustível: o Hodari leva 25% mais que o Palaemon. O HP dos dois e o custo do Palaemon ainda não foram publicados, então o veredito [naval](05-naval.md) será revisto quando o update entrar no LIVE.
+
+Fontes: esta página resume [Histórico de guerras](01-historico-guerras.md), [Infantaria](02-infantaria.md), [Blindados](03-blindados.md), [Artilharia](04-artilharia.md), [Naval](05-naval.md), [Aéreo](06-aereo.md) e [Logística](07-logistica.md); as páginas do wiki e as notas de patch estão listadas em cada página e em [fontes.md](../fontes.md); a prévia do Update 68 usa a [Update 68 dev branch](https://www.foxholegame.com/post/update-68-dev-branch-released).

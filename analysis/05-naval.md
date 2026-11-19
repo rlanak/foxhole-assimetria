@@ -30,4 +30,24 @@ The Trident has 34% more HP, dives deeper (25 vs 20 m) and stays submerged almos
 
 The Trident's 120mm is a surface weapon: 400 HE, 100–225 m, for finishing off a crippled ship or shelling the coast after the torpedoes are spent. For stealth ambushes the Nakki is better; for long, deep patrols the Trident is. The Nakki is a hunter, the Trident an endurance boat.
 
-Sources: [Large Ships](https://foxhole.wiki.gg/wiki/Large_Ships), [Ships](https://foxhole.wiki.gg/wiki/Ships), [Nakki](https://foxhole.wiki.gg/wiki/Nakki), [Trident](https://foxhole.wiki.gg/wiki/AC-b_%E2%80%9CTrident%E2%80%9D), [Artillery](https://foxhole.wiki.gg/wiki/Artillery)
+## Update 68 dev branch (preview, not live)
+
+The dev branch adds a light submarine and a sub-hunting light boat for each faction. Their wiki pages exist but are marked as unreleased content and list no HP, so there is no verdict yet.
+
+| | AF-e "Palaemon" (Colonial) | Hodari (Warden) | Reading |
+| --- | --- | --- | --- |
+| Armament | 6 torpedo tubes, 12.7mm MG | 6 torpedo tubes, 12.7mm MG | Mirrored |
+| Crew | 6 | 6 | Mirrored |
+| Fuel | 200 L (44 min 27 s) | 250 L (55 min 33 s) | Warden +25% endurance |
+| Speed | not listed | 12.4 knots (6.37 m/s) | Unknown |
+| Cost | not listed | 125 Refined Materials | Unknown |
+| HP | not listed | not listed | Unknown |
+
+The patch notes describe the Palaemon as cheap and short-range, which matches its smaller fuel tank. Whether it is actually cheaper than the Hodari can't be checked until its cost is published.
+
+- **Sub hunters.** The Type F "Abyss Trawler" (Colonial) and the Rinnspeir Reefward Patrol Boat (Warden) both carry a sonar array and a depth charge launcher, and neither is built for ship-to-ship combat. Only the Reefward has a wiki page so far: crew 3, 250 L fuel, 300 Basic Materials.
+- **Model-8 "Kappa".** A new depth charge for light submarines, with a 5–30 m depth fuse. No faction is listed, so both sides should be able to use it.
+- **Changes for both factions.** Ships get a throttle like aircraft. Vehicles can no longer anchor with enemy structures or vehicles nearby. Dive officers can see horizontal speed.
+- **Naming.** On the dev branch the "Infantry Boat" class is renamed "Light Boat". The tables keep the live name until the update is released.
+
+Sources: [Large Ships](https://foxhole.wiki.gg/wiki/Large_Ships), [Ships](https://foxhole.wiki.gg/wiki/Ships), [Nakki](https://foxhole.wiki.gg/wiki/Nakki), [Trident](https://foxhole.wiki.gg/wiki/AC-b_%E2%80%9CTrident%E2%80%9D), [Artillery](https://foxhole.wiki.gg/wiki/Artillery), [Update 68 dev branch](https://www.foxholegame.com/post/update-68-dev-branch-released), [Palaemon](https://foxhole.wiki.gg/wiki/AF-e_%22Palaemon%22), [Hodari](https://foxhole.wiki.gg/wiki/Hodari), [Reefward](https://foxhole.wiki.gg/wiki/Rinnspeir_Reefward_Patrol_Boat), [Kappa](https://foxhole.wiki.gg/wiki/Model-8_%E2%80%9CKappa%E2%80%9D)

@@ -26,4 +26,8 @@ Full data in [`data/small-arms.csv`](../data/small-arms.csv).
 - In Update 67 the KLG901-2 Lunaire F was nerfed: reload from 2 s to 3 s and cost from 15 to 35 Refined Materials, to bring it closer to the Cutler.
 - Community report: the Tremola grenade was buffed and made Colonial-only, which unbalanced the economy between the two factions' grenade launchers.
 
-Sources: [Small Arms](https://foxhole.wiki.gg/wiki/Small_Arms), [Update 67](https://www.foxholegame.com/post/update-67-release-notes)
+## Update 68 dev branch (preview, not live)
+
+A bug fix removes the extra sprint speed players got with a bayonet on the Volta r.I Repeater (Colonial) and The Hangman 757 (Warden). It affects one heavy rifle on each side, so it doesn't change the balance between factions.
+
+Sources: [Small Arms](https://foxhole.wiki.gg/wiki/Small_Arms), [Update 67](https://www.foxholegame.com/post/update-67-release-notes), [Update 68 dev branch](https://www.foxholegame.com/post/update-68-dev-branch-released)
