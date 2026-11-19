@@ -14,7 +14,7 @@
 | SMG | "Lionclaw" mc.VIII: 240/min, 20 balas | Fiddler 868: 240/min, 25 balas | Warden (pente maior) |
 | Shotgun | KRF1-750 Dragonfly: 70–105, 5 cartuchos, 17–25 m | No.4 Pillory: 63–94, 2 cartuchos, 120/min | Depende do uso |
 
-Dados completos em [`dados/armas-leves.csv`](../dados/armas-leves.csv).
+Dados completos em [`data/small-arms.csv`](../data/small-arms.csv).
 
 > O wiki não marca a facção de cada tabela de armas leves. A separação acima segue a nomenclatura (latim e grego para Colonial, inglês e gaélico para Warden). Correções são bem-vindas.
 

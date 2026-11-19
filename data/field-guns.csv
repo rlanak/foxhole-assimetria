@@ -1,0 +1,17 @@
+faction,class,name,hp,resistance,armament,cost,source
+Colonial,Field Machine Gun,"G40 ""Sagittarii""",1850,Heavy Armoured,12.7mm MG (+20% velocity option),20 Refined Materials,https://foxhole.wiki.gg/wiki/Field_Guns
+Colonial,Field AT Rifle,"GA6 ""Cestus""",1600,Heavy Armoured,14.5mm AT rifle,"1 G40, 30 Construction Materials, 20 AM II",https://foxhole.wiki.gg/wiki/Field_Guns
+Colonial,Field AT Gun,AA-2 Battering Ram,2850,Heavy Armoured,68mm cannon,20 Refined Materials,https://foxhole.wiki.gg/wiki/Field_Guns
+Colonial,Heavy Field Gun,"40-45 ""Smelter""",4000,Heavy Armoured,40mm cannon (+35% velocity option),"1 AA-2, 5 PCM, 5 AM IV",https://foxhole.wiki.gg/wiki/Field_Guns
+Colonial,Large Field Gun,"945g ""Stygian Bolt""",5000,Heavy Armoured,94.5mm cannon (+50% velocity option),"1 AA-2, 15 SCM, 20 AM II, 15 AM III",https://foxhole.wiki.gg/wiki/Field_Guns
+Colonial,Field Artillery,"120-68 ""Koronides""",1000,Light Armoured,120mm light artillery cannon,50 Refined Materials,https://foxhole.wiki.gg/wiki/Field_Guns
+Colonial,Field Mortar,"30-250 ""Tisiphone""",2450,Heavy Armoured,250mm mortar,35 Refined Materials,https://foxhole.wiki.gg/wiki/Field_Guns
+Colonial,Large Field Mortar,"40-250 ""Alekto""",3750,Heavy Armoured,250mm mortar,"1 Tisiphone, 10 SCM, 20 AM II, 15 AM III",https://foxhole.wiki.gg/wiki/Field_Guns
+Warden,Field Machine Gun,Swallowtail 988/127-2,1850,Heavy Armoured,12.7mm MG (+20% velocity option),20 Refined Materials,https://foxhole.wiki.gg/wiki/Field_Guns
+Warden,Field AT Rifle,Duncan's Coin 14.5mm,1600,Heavy Armoured,14.5mm AT rifle (+25% velocity option),"1 Swallowtail, 30 Construction Materials, 20 AM II",https://foxhole.wiki.gg/wiki/Field_Guns
+Warden,Field AT Gun,Collins Cannon 68mm,2850,Heavy Armoured,68mm cannon,20 Refined Materials,https://foxhole.wiki.gg/wiki/Field_Guns
+Warden,Field Cannon,Balfour Wolfhound 40mm,2850,Heavy Armoured,40mm cannon,20 Refined Materials,https://foxhole.wiki.gg/wiki/Field_Guns
+Warden,Heavy Field Gun,Balfour Rampart 68mm,4000,Heavy Armoured,68mm cannon (+25% velocity option),"1 Collins Cannon, 5 PCM, 5 AM IV",https://foxhole.wiki.gg/wiki/Field_Guns
+Warden,Large Field Gun,Balfour Stockade 75mm,5000,Heavy Armoured,75mm cannon (+35% velocity option),"1 Wolfhound, 15 SCM, 20 AM II, 15 AM III",https://foxhole.wiki.gg/wiki/Field_Guns
+Warden,Field Launcher,Rycker 4/3-F Wasp Nest,1000,Light Armoured,4C-Fire rocket battery,"20 PCM, 15 AM II, 3 AM IV",https://foxhole.wiki.gg/wiki/Field_Guns
+Warden,Field Mortar,Balfour Falconer 250mm,2850,Heavy Armoured,250mm mortar,35 Refined Materials,https://foxhole.wiki.gg/wiki/Field_Guns

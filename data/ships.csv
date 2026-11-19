@@ -1,0 +1,19 @@
+faction,class,name,hp,armament,cost,notes,source
+Colonial,Battleship,Titan,85960,"2x triple 150mm, twin 120mm, 2x 68mm, 2x 12.7mm MG","20 Hull Segments, 20 Shell Plating, 4 Turbine Components",150mm at 27.3 shots/min,https://foxhole.wiki.gg/wiki/Large_Ships
+Warden,Battleship,Callahan,85960,"3x twin 150mm, 2x twin 120mm, 4x 30mm, 2x 12.7mm MG","20 Hull Segments, 20 Shell Plating, 4 Turbine Components",150mm at 18.8 shots/min,https://foxhole.wiki.gg/wiki/Large_Ships
+Colonial,Destroyer,Conqueror,46200,"2x twin 120mm, twin 68mm, 2x depth charge launcher, 2x 12.7mm MG","12 Hull Segments, 12 Shell Plating",,https://foxhole.wiki.gg/wiki/Large_Ships
+Warden,Light Frigate,Blacksteele,41400,"2x 120mm, 2x 68mm, quad depth charge launcher, 2x 12.7mm MG","12 Hull Segments, 12 Shell Plating",,https://foxhole.wiki.gg/wiki/Large_Ships
+Colonial,Submarine,"AC-b ""Trident""",28500,"2x torpedo tube (Moray 3512 HE), 120mm cannon (400 HE, 100-225 m)","15 Hull Segments, 15 Shell Plating","Crush depth 25 m; 7.8 kn submerged; ~33 min submerged",https://foxhole.wiki.gg/wiki/AC-b_%E2%80%9CTrident%E2%80%9D
+Warden,Submarine,Nakki,21275,"2x torpedo tube (Moray 3512 HE), twin 68mm cannon (600 AP, 45 m)","15 Hull Segments, 15 Shell Plating","Crush depth 20 m; 8.7 kn submerged; ~18 min submerged; smaller sonar profile",https://foxhole.wiki.gg/wiki/Nakki
+Colonial,Aircraft Carrier,Poseidon,78050,4x 20mm MG (+20% velocity),"16 Hull Segments, 20 Shell Plating","Deck landing; storage for up to 20 aircraft (not reservable)",https://foxhole.wiki.gg/wiki/Poseidon
+Warden,Aircraft Carrier,Mercy,74750,"2x 20mm MG (+20% velocity), 2x 12.7mm MG","16 Hull Segments, 20 Shell Plating","3 catapults, 2 cranes; reduced fuel consumption for 3 min after launch",https://foxhole.wiki.gg/wiki/Mercy
+Colonial,Gunboat,"Type C ""Charon""",1850,"Mortar cannon, 2x tripod mount",140 Refined Materials,,https://foxhole.wiki.gg/wiki/Ships
+Warden,Gunboat,74b-1 Ronan Gunship,1650,"Mortar cannon, 2x tripod mount",140 Refined Materials,,https://foxhole.wiki.gg/wiki/Ships
+Colonial,Gunship,Strider,2300,"40mm, 30mm, 2x 12.7mm MG",500 Basic Materials,,https://foxhole.wiki.gg/wiki/Ships
+Warden,Gunship,Rinnspeir Ornitier,2050,"Twin RPG launcher, 2x twin 30mm cannon",450 Basic Materials,,https://foxhole.wiki.gg/wiki/Ships
+Colonial,Infantry Boat,"K-81e ""Sombre""",1500,20mm quad MG,200 Basic Materials,2 deck passengers,https://foxhole.wiki.gg/wiki/Ships
+Warden,Infantry Boat,68A-4 Ronan Fathomer,1750,20mm quad MG,250 Basic Materials,6 deck passengers,https://foxhole.wiki.gg/wiki/Ships
+Colonial,Siege Boat,"Type B ""Lucian""",1800,Shatter missile battery,100 Refined Materials,,https://foxhole.wiki.gg/wiki/Ships
+Warden,Siege Boat,81f-f Ronan Blackguard,2000,250mm heavy mortar,100 Refined Materials,,https://foxhole.wiki.gg/wiki/Ships
+Colonial,Landing Ship,Interceptor PA-12,2250,None,10 Basic Materials,,https://foxhole.wiki.gg/wiki/Ships
+Warden,Landing Ship,MacConmara Shorerunner,2250,None,10 Basic Materials,,https://foxhole.wiki.gg/wiki/Ships

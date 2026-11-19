@@ -1,3 +1,5 @@
+**Português** · [English](sources.md)
+
 # Fontes
 
 Consultadas em novembro de 2026, versão do jogo 1.67.
