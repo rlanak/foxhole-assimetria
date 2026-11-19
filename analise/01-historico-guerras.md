@@ -1,3 +1,5 @@
+**Português** · [English](../analysis/01-war-history.md)
+
 # Histórico de guerras
 
 **Conclusão:** o resultado das guerras não mostra uma facção dominante. Desde 2023 os Wardens venceram 24 guerras e os Colonials 16. Desde a fusão dos shards no LIVE (Update 1.64), o placar é 4 × 2 para os Colonials, com dois empates.

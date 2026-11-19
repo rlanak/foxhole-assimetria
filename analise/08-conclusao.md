@@ -1,3 +1,5 @@
+**Português** · [English](../analysis/08-conclusion.md)
+
 # Conclusão
 
 **O jogo está razoavelmente equilibrado no conjunto, mas há desequilíbrios concretos e mensuráveis**, concentrados no super tanque, nos caças e no ataque aéreo a navios. A ideia de que "os Wardens têm tudo melhor" não se sustenta nos números.
@@ -25,3 +27,5 @@
 - Variedade de blindados: Wardens têm scout, cruiser e caça-tanque; Colonials têm seis tanques de assalto, Scorpion, Ballista e tankettes.
 - Submarinos: Nakki caçador × Trident resistente.
 - Artilharia: Colonial móvel × Warden fixa e de maior alcance.
+
+Fontes: esta página resume [Histórico de guerras](01-historico-guerras.md), [Infantaria](02-infantaria.md), [Blindados](03-blindados.md), [Artilharia](04-artilharia.md), [Naval](05-naval.md), [Aéreo](06-aereo.md) e [Logística](07-logistica.md); as páginas do wiki e as notas de patch estão listadas em cada página e em [fontes.md](../fontes.md).

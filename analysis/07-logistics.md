@@ -1,3 +1,5 @@
+[Português](../analise/07-logistica.md) · **English**
+
 # Logistics and backline
 
 **Bottom line:** for backline players the factions are practically identical. Trucks and most logistics vehicles have the same stats and only differ in model. Facilities, resources and the large logistics ships (Longhook, Bluefin, Bowhead etc.) have no faction.

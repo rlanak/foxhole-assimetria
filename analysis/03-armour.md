@@ -1,3 +1,5 @@
+[Português](../analise/03-blindados.md) · **English**
+
 # Vehicles and armour
 
 **Bottom line:** the Warden advantage is clear in one place: the super tank. Elsewhere, Colonials have more HP in almost every class, while Wardens have more speed, more specialised types and more anti-infantry weapons. The current pattern is **Colonial = more HP, Warden = more speed and variety**.

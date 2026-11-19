@@ -1,3 +1,5 @@
+[Português](../analise/08-conclusao.md) · **English**
+
 # Conclusion
 
 **Overall the game is reasonably balanced, but there are concrete, measurable imbalances**, concentrated in the super tank, fighters and air strikes on ships. The idea that "Wardens have everything better" doesn't hold up against the numbers.
@@ -25,3 +27,5 @@
 - Armour variety: Wardens have scout, cruiser and tank destroyer lines; Colonials have six assault tanks, the Scorpion, the Ballista and tankettes.
 - Submarines: Nakki hunter vs Trident endurance.
 - Artillery: mobile Colonial vs emplaced, longer-range Warden.
+
+Sources: this page summarises [War history](01-war-history.md), [Infantry](02-infantry.md), [Armour](03-armour.md), [Artillery](04-artillery.md), [Naval](05-naval.md), [Air](06-air.md) and [Logistics](07-logistics.md); the underlying wiki pages and patch notes are listed on each page and in [sources.md](../sources.md).
