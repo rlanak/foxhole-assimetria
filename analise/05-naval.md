@@ -14,7 +14,7 @@
 | Barco de cerco | Type B "Lucian": 1.800 HP, mísseis | Ronan Blackguard: 2.000 HP, morteiro 250 mm | Warden +11% |
 | Desembarque | Interceptor PA-12: 2.250 HP | MacConmara Shorerunner: 2.250 HP | Empate |
 
-Dados completos em [`dados/navios.csv`](../dados/navios.csv).
+Dados completos em [`data/ships.csv`](../data/ships.csv).
 
 ## Encouraçados
 

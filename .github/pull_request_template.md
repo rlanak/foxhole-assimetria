@@ -1,11 +1,11 @@
-## O que muda
+## What changes / O que muda
 
-## Fonte dos dados
-<!-- Link público para cada número alterado -->
+## Data sources / Fontes
+<!-- A public link for every number changed / Link público para cada número alterado -->
 
-## Versão do jogo
+## Game version / Versão do jogo
 
 ## Checklist
-- [ ] Todo número novo tem fonte pública na coluna `fonte`
-- [ ] Não há nomes de jogadores, regimentos ou links privados
-- [ ] Se mudou uma conclusão, atualizei `analise/` e o resumo do README
+- [ ] Every new number has a public source in the `source` column / Todo número novo tem fonte pública
+- [ ] No player names, regiment names or private links / Sem nomes de jogadores, regimentos ou links privados
+- [ ] If a conclusion changed, I updated `analysis/` and/or `analise/` and the README summaries / Se mudou uma conclusão, atualizei as análises e os resumos

@@ -12,7 +12,7 @@
 | Bombardeiro pesado | V-1 Tzykalia: 10.000 HP, Raidbreaker | Tulka P4 "Welkinrive": 10.000 HP, Raidbreaker | Espelhados |
 | Scouts (2 por lado) | Daedalus, Perdix | Herald, Emissary | Espelhados |
 
-Dados completos em [`dados/aeronaves.csv`](../dados/aeronaves.csv).
+Dados completos em [`data/aircraft.csv`](../data/aircraft.csv).
 
 ## Caças
 

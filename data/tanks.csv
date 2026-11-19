@@ -1,0 +1,38 @@
+faction,class,name,hp,armament,anti_infantry,cost,road_speed_ms,source
+Colonial,Light Tank,"H-5 ""Hatchet""",1950,40mm cannon,no,115 Refined Materials,,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Light Tank,"H-8 ""Kranesca""",2250,40mm cannon,no,"1 H-5, 5 PCM, 20 AM I, 5 AM IV",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Light Tank,"H-19 ""Vulcan""",1950,Flamethrower,yes,"1 H-5, 8 PCM, 20 AM II, 5 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Light Tank,"H-10 ""Pelekys""",1750,68mm cannon,no,"1 H-5, 8 PCM, 20 AM II, 5 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Light Tank,"HA-1 ""Sagaris""",1950,Twin-barrel AA cannon,no,125 Refined Materials,,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Light Infantry Tank,"HC-2 ""Scorpion""",3300,2x 12.7mm MG (+20% velocity),yes,100 Refined Materials,,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Assault Tank,"85K-b ""Falchion""",3650,40mm cannon,no,135 Refined Materials,,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Assault Tank,"85K-a ""Spatha""",3650,40mm cannon,no,"1 Falchion, 12 PCM, 10 AM I, 8 AM IV",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Assault Tank,"86K-a ""Bardiche""",4000,"68mm short-barrel cannon, 12.7mm coaxial MG",yes,165 Refined Materials,,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Assault Tank,"86K-c ""Ranseur""",4000,"12.7mm MG (+20% velocity), quad RPG launcher",yes,"1 Bardiche, 10 PCM, 10 AM II, 10 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Assault Tank,"85V-g ""Talos""",4000,75mm cannon,no,"1 Falchion, 10 Steel, 10 AM I, 15 AM III, 15 AM IV",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Assault Tank,"90T-v ""Nemesis""",3650,"68mm cannon, quad grenade launcher",yes,150 Refined Materials,,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Siege Tank,"HC-7 ""Ballista""",3300,250mm mortar,no,"1 HC-2, 15 PCM, 15 AM II",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Battle Tank,Lance-36,6250,"75mm cannon, 12.7mm MG (+20% velocity)",yes,"50 Steel, 30 AM III, 60 AM IV, 35 AM V",6.25,https://foxhole.wiki.gg/wiki/Lance-36
+Colonial,Battle Tank,"Lance-25 ""Hasta""",6250,94.5mm cannon,no,"60 Steel, 65 AM III, 45 AM IV, 65 AM V",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Battle Tank,"Lance-46 ""Sarissa""",6250,150mm heavy artillery cannon,no,"150 Steel, 65 AM III, 40 AM IV, 85 AM V",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Super Tank,"O-75b ""Ares""",9250,Double-barrelled 75mm cannon,no,"275 Steel, 105 AM III, 95 AM IV, 105 AM V, 3 Rare Alloys",5.03,https://foxhole.wiki.gg/wiki/O-75b_%22Ares%22
+Warden,Scout Tank,King Spire Mk. I,1350,12.7mm MG (-36% velocity),yes,70 Refined Materials,,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Scout Tank,King Gallant Mk. II,1350,30mm cannon,no,"1 King Spire, 5 PCM, 5 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Scout Tank,King Jester Mk. I-1,1350,Shatter missile battery,no,"1 King Spire, 5 Steel, 15 AM I, 3 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Light Tank,Devitt Mk. III,1950,40mm cannon,no,120 Refined Materials,,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Light Tank,Devitt Ironhide Mk. IV,1950,40mm cannon,no,"1 Devitt Mk. III, 8 PCM, 20 AM II, 5 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Light Tank,Devitt-Caine Mk. IV MMR,1950,Mortar,no,"1 Devitt Mk. III, 3 PCM, 20 AM I, 3 AM IV",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Light Tank,Sharkey-Devitt Birdeater Mk. I,1950,Twin-barrel AA cannon,no,125 Refined Materials,,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Assault Tank,Silverhand - Mk. IV,3100,"40mm cannon, 68mm cannon",no,160 Refined Materials,,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Assault Tank,Silverhand Chieftain - Mk. VI,3100,"12.7mm twin MG (+20% velocity), 250mm mortar",yes,"1 Silverhand Mk. IV, 5 PCM, 10 AM I, 8 AM IV",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Assault Tank,Silverhand Lordscar - Mk. X,3100,94.5mm cannon (-31.4% velocity),no,"1 Silverhand Mk. IV, 15 Steel, 25 AM II, 25 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Cruiser Tank,Gallagher Brigand Mk. I,2950,"30mm cannon, 7.92mm MG",yes,150 Refined Materials,,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Cruiser Tank,Gallagher Outlaw Mk. II,2950,"40mm long-barrel cannon (+20% velocity), 7.92mm hull MG",yes,"1 Brigand, 10 PCM, 10 AM I, 10 AM IV",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Cruiser Tank,Gallagher Highwayman Mk. III,2950,"Dual 14.5mm cannon, 12.7mm MG",yes,"1 Brigand, 5 PCM, 10 AM II, 5 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Cruiser Tank,Gallagher Thornfall Mk. VI,2650,"7.92mm MG, Bonesaw mortar launchers",yes,"1 Brigand, 60 PCM, 10 AM I, 15 AM III, 15 AM IV",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Destroyer Tank,Noble Widow MK. XIV,2200,68mm cannon (+75% velocity),no,160 Refined Materials,,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Destroyer Tank,Noble Firebrand Mk. XVII,2200,Heavy flamethrower,yes,"1 Noble Widow, 10 PCM, 10 AM II, 15 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Battle Tank,Flood Mk. I,5100,"75mm cannon, 12.7mm MG (-36% velocity)",yes,"50 Steel, 30 AM III, 60 AM IV, 35 AM V",7.22,https://foxhole.wiki.gg/wiki/Flood_Mk._I
+Warden,Battle Tank,Flood Mk. IX Stain,4800,150mm heavy artillery cannon,no,"150 Steel, 65 AM III, 40 AM IV, 85 AM V",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Battle Tank,Flood Juggernaut Mk. VII,5100,"75mm cannon, heavy flamethrower",yes,"40 Steel, 65 AM III, 30 AM IV, 45 AM V",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Super Tank,Cullen Predator Mk. III,12000,"94.5mm cannon (+25% velocity), 2x quad grenade launcher",yes,"275 Steel, 105 AM III, 95 AM IV, 105 AM V, 3 Rare Alloys",7.22,https://foxhole.wiki.gg/wiki/Cullen_Predator_Mk._III

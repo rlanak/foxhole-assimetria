@@ -13,7 +13,7 @@
 | Só Colonial | HC-2 Scorpion (tanque de infantaria), HC-7 Ballista (250 mm), tankettes T12–T20 | — | |
 | Só Warden | — | King Spire (scout), Gallagher (cruiser), Noble Widow (caça-tanque, 68 mm com +75% de velocidade de projétil) | |
 
-Dados completos em [`dados/tanques.csv`](../dados/tanques.csv).
+Dados completos em [`data/tanks.csv`](../data/tanks.csv).
 
 ## Lance-36 × Flood Mk. I
 

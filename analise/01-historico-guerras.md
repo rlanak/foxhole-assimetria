@@ -8,7 +8,7 @@
 | Desde a fusão LIVE (Guerras 135–141) | 2 | 4 | 1 |
 | Todas as guerras da história | 73 | 66 | — |
 
-Dados completos em [`dados/guerras.csv`](../dados/guerras.csv).
+Dados completos em [`data/wars.csv`](../data/wars.csv).
 
 ## Pontos de atenção
 

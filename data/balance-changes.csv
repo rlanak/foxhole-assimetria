@@ -1,0 +1,22 @@
+update,faction,item,change,type,source
+1.67,Colonial,"Daimon aK-5 ""Harpy""",Damage has less impact on handling,buff,https://www.foxholegame.com/post/update-67-release-notes
+1.67,Colonial,KLG901-2 Lunaire F,"Reload 2 s -> 3 s; cost 15 -> 35 Refined Materials; production 100 s -> 50 s; crate assembly 20 s -> 16 s",nerf,https://www.foxholegame.com/post/update-67-release-notes
+1.67,Colonial,"85V-G ""Talos""",Range 40 m -> 37.5 m,nerf,https://www.foxholegame.com/post/update-67-release-notes
+1.67,,BF5 White Ash Flask Grenade,Velocity +20%,buff,https://www.foxholegame.com/post/update-67-release-notes
+1.66,Colonial,"Daimon aK-5 ""Harpy""","Added. On dev branch: 14.5mm velocity bonus 50% -> 25%; 20mm turret turn rate -30%",nerf,https://www.foxholegame.com/post/update-66-dev-branch-released
+1.66,Both,Resource Transfer Station,Capacity 15000 -> 30000,buff,https://www.foxholegame.com/post/update-66-release-notes
+1.66,Both,Coastal Guns,"Now target Large Ships; damage 1350 -> 900; type Explosive -> High Explosive",change,https://www.foxholegame.com/post/update-66-release-notes
+1.66,Both,Mark II Raidbreaker,"Leak chance 50% -> 25%; Large Ship resistance 25% -> 75%",nerf,https://www.foxholegame.com/post/update-66-release-notes
+1.66,Both,Landing APC,HP 2000 -> 1000,nerf,https://www.foxholegame.com/post/update-66-release-notes
+1.66,Both,Anti-Air Guns,Now target aircraft floating on water,change,https://www.foxholegame.com/post/update-66-release-notes
+1.66,Warden,Rinnspeir Mk. I Zealot,Wider side doors and new tail floor door,buff,https://www.foxholegame.com/post/update-66-release-notes
+1.65,Both,Blind Silver and Harbinger,MG velocity damage bonus 50% -> 0%; production 4 h -> 1 h,nerf,https://www.foxholegame.com/post/update-65-release-notes
+1.65,Warden,Tulka I1.9 White Raven,Velocity bonus 75% -> 25%; production 4 h -> 1 h,nerf,https://www.foxholegame.com/post/update-65-release-notes
+1.65,Warden,M925 Austringer Man-O-War,"HP 10800 -> 7000; Rare Alloys 6 -> 4; production 4 h -> 1 h",change,https://www.foxholegame.com/post/update-65-release-notes
+1.65,Both,V-1 Tzykalia and Tulka P4 Welkinrive,HP 15000 -> 10000; production 8 h -> 4 h,nerf,https://www.foxholegame.com/post/update-65-release-notes
+1.65,Both,V-5b Pegasus and Rinnspeir Mk. I Zealot,"HP 8300 -> 7000; Rare Alloys 4 -> 6; production 6 h -> 2 h",change,https://www.foxholegame.com/post/update-65-release-notes
+1.64,Colonial,"Mergo-4 ""Myrmidon""","Max bombs 4 -> 2; payload now takes 6 s; wing and tail 575 -> 750; fuselage 1000 -> 1150",nerf,https://www.foxholegame.com/post/update-64-release-notes
+1.64,Warden,M925 Austringer Man-O-War,"Moray torpedo -> Tenta torpedo (15% Large Leak chance); gunner range 35 -> 50 m",change,https://www.foxholegame.com/post/update-64-release-notes
+1.64,Warden,Tulka I1.9 White Raven,"Reload 2 s -> 7.5 s; range 75 -> 70 m; fuel consumption +5%",nerf,https://www.foxholegame.com/post/update-64-release-notes
+1.64,Colonial,"AC-b ""Trident""","Crush depth 20 -> 25 m; battery 150 -> 195; submerged drain 0.14 -> 0.1/s",buff,https://www.foxholegame.com/post/update-64-release-notes
+1.64,Colonial,Quillback Torpedo,Now producible by Colonials,buff,https://www.foxholegame.com/post/update-64-release-notes

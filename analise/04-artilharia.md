@@ -14,7 +14,7 @@
 | Foguete HE | R-17 "Retiarius": 375–500 m; Hades' Net (fixo): até 575 m | O'Brien V.200 Squire: 375–500 m | Espelhado, Colonial com o fixo mais longo |
 | Tanque de batalha 150 mm | Lance-46 "Sarissa" | Flood Mk. IX Stain | Mesmos stats e custo |
 
-Dados das armas de campo em [`dados/armas-de-campo.csv`](../dados/armas-de-campo.csv).
+Dados das armas de campo em [`data/field-guns.csv`](../data/field-guns.csv).
 
 > A Storm Cannon (300 mm, até 1.000 m) e a Tempest Cannon RA-2 (300 mm sobre trilhos) aparecem no wiki sem facção definida. A atribuição de Huber e Thunderbolt segue a nomenclatura, porque as páginas consultadas não marcam a facção.
 

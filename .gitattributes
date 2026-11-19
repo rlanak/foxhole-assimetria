@@ -1,0 +1,4 @@
+# Normaliza finais de linha / Normalize line endings
+* text=auto eol=lf
+*.csv text eol=lf
+*.md text eol=lf
