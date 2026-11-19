@@ -30,4 +30,24 @@ O Trident tem 34% mais vida, desce mais fundo (25 contra 20 m) e fica quase o do
 
 O 120 mm do Trident é arma de superfície: 400 HE, 100–225 m, para terminar um navio aleijado ou atirar na costa depois de gastar os torpedos. Para emboscada furtiva, o Nakki é melhor. Para patrulha longa e profunda, o Trident. O Nakki é caçador, o Trident é resistência.
 
-Fontes: [Large Ships](https://foxhole.wiki.gg/wiki/Large_Ships), [Ships](https://foxhole.wiki.gg/wiki/Ships), [Nakki](https://foxhole.wiki.gg/wiki/Nakki), [Trident](https://foxhole.wiki.gg/wiki/AC-b_%E2%80%9CTrident%E2%80%9D), [Artillery](https://foxhole.wiki.gg/wiki/Artillery)
+## Update 68 dev branch (prévia, ainda não está no LIVE)
+
+A dev branch adiciona, para cada facção, um submarino leve e um barco leve caçador de submarinos. As páginas do wiki já existem, mas estão marcadas como conteúdo não lançado e não mostram HP, então ainda não há veredito.
+
+| | AF-e "Palaemon" (Colonial) | Hodari (Warden) | Leitura |
+| --- | --- | --- | --- |
+| Armamento | 6 tubos de torpedo, MG 12,7 mm | 6 tubos de torpedo, MG 12,7 mm | Espelhados |
+| Tripulação | 6 | 6 | Espelhados |
+| Combustível | 200 L (44 min 27 s) | 250 L (55 min 33 s) | Warden +25% de autonomia |
+| Velocidade | não informada | 12,4 nós (6,37 m/s) | Desconhecido |
+| Custo | não informado | 125 Refined Materials | Desconhecido |
+| HP | não informado | não informado | Desconhecido |
+
+As notas do patch descrevem o Palaemon como barato e de curto alcance, o que bate com o tanque menor. Se ele é de fato mais barato que o Hodari só dá para conferir quando o custo for publicado.
+
+- **Caçadores de submarino.** O Type F "Abyss Trawler" (Colonial) e o Rinnspeir Reefward Patrol Boat (Warden) têm sonar e lançador de cargas de profundidade, e nenhum dos dois é feito para combate entre navios. Só o Reefward tem página no wiki até agora: tripulação 3, 250 L de combustível, 300 Basic Materials.
+- **Model-8 "Kappa".** Nova carga de profundidade para submarinos leves, com espoleta de 5 a 30 m. Não tem facção indicada, então os dois lados devem poder usar.
+- **Mudanças para as duas facções.** Navios ganham acelerador como o dos aviões. Veículos não podem mais ancorar com estruturas ou veículos inimigos por perto. O oficial de mergulho passa a ver a velocidade horizontal.
+- **Nome.** Na dev branch a classe "Infantry Boat" passa a se chamar "Light Boat". As tabelas mantêm o nome do LIVE até o lançamento.
+
+Fontes: [Large Ships](https://foxhole.wiki.gg/wiki/Large_Ships), [Ships](https://foxhole.wiki.gg/wiki/Ships), [Nakki](https://foxhole.wiki.gg/wiki/Nakki), [Trident](https://foxhole.wiki.gg/wiki/AC-b_%E2%80%9CTrident%E2%80%9D), [Artillery](https://foxhole.wiki.gg/wiki/Artillery), [Update 68 dev branch](https://www.foxholegame.com/post/update-68-dev-branch-released), [Palaemon](https://foxhole.wiki.gg/wiki/AF-e_%22Palaemon%22), [Hodari](https://foxhole.wiki.gg/wiki/Hodari), [Reefward](https://foxhole.wiki.gg/wiki/Rinnspeir_Reefward_Patrol_Boat), [Kappa](https://foxhole.wiki.gg/wiki/Model-8_%E2%80%9CKappa%E2%80%9D)

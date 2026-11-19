@@ -28,4 +28,8 @@
 - Submarines: Nakki hunter vs Trident endurance.
 - Artillery: mobile Colonial vs emplaced, longer-range Warden.
 
-Sources: this page summarises [War history](01-war-history.md), [Infantry](02-infantry.md), [Armour](03-armour.md), [Artillery](04-artillery.md), [Naval](05-naval.md), [Air](06-air.md) and [Logistics](07-logistics.md); the underlying wiki pages and patch notes are listed on each page and in [sources.md](../sources.md).
+## Update 68 dev branch (preview, not live)
+
+No verdict changes. The new light submarines and sub hunters are mirrored on armament and crew. The only measurable difference so far is fuel: the Hodari carries 25% more than the Palaemon. HP for both and the Palaemon's cost aren't published yet, so the [naval](05-naval.md) verdict will be revisited when the update goes live.
+
+Sources: this page summarises [War history](01-war-history.md), [Infantry](02-infantry.md), [Armour](03-armour.md), [Artillery](04-artillery.md), [Naval](05-naval.md), [Air](06-air.md) and [Logistics](07-logistics.md); the underlying wiki pages and patch notes are listed on each page and in [sources.md](../sources.md); the Update 68 preview uses the [Update 68 dev branch](https://www.foxholegame.com/post/update-68-dev-branch-released).

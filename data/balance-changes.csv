@@ -1,4 +1,15 @@
 update,faction,item,change,type,source
+dev 1.68,Colonial,"AF-e ""Palaemon""","New light submarine: 6 torpedo tubes, 12.7mm MG, 200 L fuel (dev branch)",change,https://www.foxholegame.com/post/update-68-dev-branch-released
+dev 1.68,Warden,Hodari,"New light submarine: 6 torpedo tubes, 12.7mm MG, 250 L fuel, 125 Refined Materials (dev branch)",change,https://www.foxholegame.com/post/update-68-dev-branch-released
+dev 1.68,Colonial,"Type F - ""Abyss Trawler""","New light boat: sonar array, depth charge launcher; no ship-to-ship weapons (dev branch)",change,https://www.foxholegame.com/post/update-68-dev-branch-released
+dev 1.68,Warden,Rinnspeir Reefward Patrol Boat,"New light boat: sonar array, depth charge launcher; no ship-to-ship weapons (dev branch)",change,https://www.foxholegame.com/post/update-68-dev-branch-released
+dev 1.68,Both,"Model-8 ""Kappa""",New depth charge for light submarines; 5-30 m fuse (dev branch),change,https://www.foxholegame.com/post/update-68-dev-branch-released
+dev 1.68,Both,Tanks (engineer seat),"Selectable modes: forward, reverse, turn, targeting, overheat; no numbers given (dev branch)",change,https://www.foxholegame.com/post/update-68-dev-branch-released
+dev 1.68,Colonial,Volta r.I Repeater,Bug fix: bayonet no longer raises sprint speed (dev branch),nerf,https://www.foxholegame.com/post/update-68-dev-branch-released
+dev 1.68,Warden,The Hangman 757,Bug fix: bayonet no longer raises sprint speed (dev branch),nerf,https://www.foxholegame.com/post/update-68-dev-branch-released
+dev 1.68,Both,Vehicles,Cannot anchor while enemy structures or vehicles are nearby (dev branch),change,https://www.foxholegame.com/post/update-68-dev-branch-released
+dev 1.68,Both,Ships,Driver throttle for finer speed control (dev branch),change,https://www.foxholegame.com/post/update-68-dev-branch-released
+dev 1.68,Both,Aircraft,Crashing into water no longer adds vehicle self-damage (dev branch),change,https://www.foxholegame.com/post/update-68-dev-branch-released
 1.67,Colonial,"Daimon aK-5 ""Harpy""",Damage has less impact on handling,buff,https://www.foxholegame.com/post/update-67-release-notes
 1.67,Colonial,KLG901-2 Lunaire F,"Reload 2 s -> 3 s; cost 15 -> 35 Refined Materials; production 100 s -> 50 s; crate assembly 20 s -> 16 s",nerf,https://www.foxholegame.com/post/update-67-release-notes
 1.67,Colonial,"85V-G ""Talos""",Range 40 m -> 37.5 m,nerf,https://www.foxholegame.com/post/update-67-release-notes

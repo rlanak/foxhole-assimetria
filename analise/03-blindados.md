@@ -31,4 +31,8 @@ Do lado Colonial, têm arma contra infantaria o Bardiche (metralhadora coaxial 1
 
 Mesmo assim, a tendência Warden é real: 10 dos 19 tanques Warden têm metralhadora, lança-chamas ou lança-granadas, contra 6 dos 17 Colonials. Toda a linha Gallagher leva metralhadora. No topo a diferença é maior: o Flood Juggernaut tem lança-chamas e o Predator tem dois lança-granadas, enquanto o Ares não tem nenhuma arma anti-infantaria.
 
-Fontes: [Tanks](https://foxhole.wiki.gg/wiki/Tanks), [Lance-36](https://foxhole.wiki.gg/wiki/Lance-36), [Flood Mk. I](https://foxhole.wiki.gg/wiki/Flood_Mk._I), [Ares](https://foxhole.wiki.gg/wiki/O-75b_%22Ares%22), [Predator](https://foxhole.wiki.gg/wiki/Cullen_Predator_Mk._III)
+## Update 68 dev branch (prévia, ainda não está no LIVE)
+
+O assento do engenheiro dos tanques pode alternar entre modos: frente (mais velocidade máxima, menos ré), ré (o contrário), curva (raio de curva menor), mira (torre gira mais rápido) e superaquecimento (reduz o efeito de ter a esteira danificada antes de o tanque ficar imobilizado). O sistema vale para as duas facções e as notas do patch não dão números. Se o tamanho do bônus de velocidade não depender da facção, a vantagem de 15% do Flood sobre o Lance-36 na estrada continua igual em termos relativos.
+
+Fontes: [Tanks](https://foxhole.wiki.gg/wiki/Tanks), [Lance-36](https://foxhole.wiki.gg/wiki/Lance-36), [Flood Mk. I](https://foxhole.wiki.gg/wiki/Flood_Mk._I), [Ares](https://foxhole.wiki.gg/wiki/O-75b_%22Ares%22), [Predator](https://foxhole.wiki.gg/wiki/Cullen_Predator_Mk._III), [Update 68 dev branch](https://www.foxholegame.com/post/update-68-dev-branch-released)

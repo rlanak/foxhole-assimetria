@@ -15,9 +15,11 @@ Consulted in November 2026, game version 1.67.
 - [Mercy](https://foxhole.wiki.gg/wiki/Mercy) · [Poseidon](https://foxhole.wiki.gg/wiki/Poseidon)
 - [Aircraft](https://foxhole.wiki.gg/wiki/Aircraft) · [Toxot-902 "Blind Silver"](https://foxhole.wiki.gg/wiki/Toxot-902_%E2%80%9CBlind_Silver%E2%80%9D) · [Luminary Mk. II Harbinger](https://foxhole.wiki.gg/wiki/Luminary_Mk._II_Harbinger) · [Tulka I1.9 White Raven](https://foxhole.wiki.gg/wiki/Tulka_I1.9_White_Raven) · [Daimon aK-5 "Harpy"](https://foxhole.wiki.gg/wiki/Daimon_aK-5_%E2%80%9CHarpy%E2%80%9D) · [Mergo-4 "Myrmidon"](https://foxhole.wiki.gg/wiki/Mergo-4_%E2%80%9CMyrmidon%E2%80%9D) · [M925 Austringer Man-O-War](https://foxhole.wiki.gg/wiki/M925_Austringer_Man-O-War) · [V-5b Pegasus](https://foxhole.wiki.gg/wiki/V-5b_Pegasus) · [Rinnspeir Mk. I Zealot](https://foxhole.wiki.gg/wiki/Rinnspeir_Mk._I_Zealot)
 - [Reserve Stockpile](https://foxhole.wiki.gg/wiki/Reserve_Stockpile)
+- Update 68 dev branch (unreleased): [AF-e "Palaemon"](https://foxhole.wiki.gg/wiki/AF-e_%22Palaemon%22) · [Hodari](https://foxhole.wiki.gg/wiki/Hodari) · [Rinnspeir Reefward Patrol Boat](https://foxhole.wiki.gg/wiki/Rinnspeir_Reefward_Patrol_Boat) · [Model-8 "Kappa"](https://foxhole.wiki.gg/wiki/Model-8_%E2%80%9CKappa%E2%80%9D)
 
 ## Siege Camp (official)
 
+- [Update 68 Dev Branch](https://www.foxholegame.com/post/update-68-dev-branch-released)
 - [Update 67 Release Notes](https://www.foxholegame.com/post/update-67-release-notes)
 - [Update 66 Release Notes](https://www.foxholegame.com/post/update-66-release-notes) · [Update 66 Dev Branch](https://www.foxholegame.com/post/update-66-dev-branch-released)
 - [Update 65 Release Notes](https://www.foxholegame.com/post/update-65-release-notes)

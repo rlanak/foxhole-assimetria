@@ -31,4 +31,8 @@ On the Colonial side, the Bardiche (12.7mm coaxial MG), Ranseur (12.7mm), Nemesi
 
 Even so, the Warden trend is real: 10 of 19 Warden tanks carry an MG, flamethrower or grenade launcher, versus 6 of 17 Colonial tanks. The whole Gallagher line has MGs. The gap is widest at the top: the Flood Juggernaut has a flamethrower and the Predator two grenade launchers, while the Ares has no anti-infantry weapon at all.
 
-Sources: [Tanks](https://foxhole.wiki.gg/wiki/Tanks), [Lance-36](https://foxhole.wiki.gg/wiki/Lance-36), [Flood Mk. I](https://foxhole.wiki.gg/wiki/Flood_Mk._I), [Ares](https://foxhole.wiki.gg/wiki/O-75b_%22Ares%22), [Predator](https://foxhole.wiki.gg/wiki/Cullen_Predator_Mk._III)
+## Update 68 dev branch (preview, not live)
+
+Tank engineer seats can switch between modes: forward (higher top speed, lower reverse speed), reverse (the opposite), turn (tighter turning radius), targeting (faster turret rotation) and overheat (lessens the effect of being tracked before the tank is immobilised). The mode system applies to both factions, and the patch notes give no numbers. If the size of the speed bonus doesn't depend on faction, the Flood's 15% road speed lead over the Lance-36 stays the same in relative terms.
+
+Sources: [Tanks](https://foxhole.wiki.gg/wiki/Tanks), [Lance-36](https://foxhole.wiki.gg/wiki/Lance-36), [Flood Mk. I](https://foxhole.wiki.gg/wiki/Flood_Mk._I), [Ares](https://foxhole.wiki.gg/wiki/O-75b_%22Ares%22), [Predator](https://foxhole.wiki.gg/wiki/Cullen_Predator_Mk._III), [Update 68 dev branch](https://www.foxholegame.com/post/update-68-dev-branch-released)
