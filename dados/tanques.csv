@@ -1,0 +1,38 @@
+faccao,classe,nome,hp,armamento,anti_infantaria,custo,velocidade_estrada_ms,fonte
+Colonial,Tanque leve,"H-5 ""Hatchet""",1950,Canhão 40 mm,nao,115 refinados,,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Tanque leve,"H-8 ""Kranesca""",2250,Canhão 40 mm,nao,"1 H-5, 5 PCM, 20 AM I, 5 AM IV",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Tanque leve,"H-19 ""Vulcan""",1950,Lança-chamas,sim,"1 H-5, 8 PCM, 20 AM II, 5 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Tanque leve,"H-10 ""Pelekys""",1750,Canhão 68 mm,nao,"1 H-5, 8 PCM, 20 AM II, 5 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Tanque leve,"HA-1 ""Sagaris""",1950,Canhão antiaéreo duplo,nao,125 refinados,,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Tanque de infantaria,"HC-2 ""Scorpion""",3300,2x MG 12.7 mm (+20% velocidade),sim,100 refinados,,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Tanque de assalto,"85K-b ""Falchion""",3650,Canhão 40 mm,nao,135 refinados,,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Tanque de assalto,"85K-a ""Spatha""",3650,Canhão 40 mm,nao,"1 Falchion, 12 PCM, 10 AM I, 8 AM IV",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Tanque de assalto,"86K-a ""Bardiche""",4000,"Canhão 68 mm curto, MG coaxial 12.7 mm",sim,165 refinados,,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Tanque de assalto,"86K-c ""Ranseur""",4000,"MG 12.7 mm (+20% velocidade), lança-RPG quádruplo",sim,"1 Bardiche, 10 PCM, 10 AM II, 10 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Tanque de assalto,"85V-g ""Talos""",4000,Canhão 75 mm,nao,"1 Falchion, 10 aço, 10 AM I, 15 AM III, 15 AM IV",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Tanque de assalto,"90T-v ""Nemesis""",3650,"Canhão 68 mm, lança-granadas quádruplo",sim,150 refinados,,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Tanque de cerco,"HC-7 ""Ballista""",3300,Morteiro 250 mm,nao,"1 HC-2, 15 PCM, 15 AM II",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Tanque de batalha,Lance-36,6250,"Canhão 75 mm, MG 12.7 mm (+20% velocidade)",sim,"50 aço, 30 AM III, 60 AM IV, 35 AM V",6.25,https://foxhole.wiki.gg/wiki/Lance-36
+Colonial,Tanque de batalha,"Lance-25 ""Hasta""",6250,Canhão 94.5 mm,nao,"60 aço, 65 AM III, 45 AM IV, 65 AM V",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Tanque de batalha,"Lance-46 ""Sarissa""",6250,Canhão de artilharia 150 mm,nao,"150 aço, 65 AM III, 40 AM IV, 85 AM V",,https://foxhole.wiki.gg/wiki/Tanks
+Colonial,Super tanque,"O-75b ""Ares""",9250,Canhão 75 mm de cano duplo,nao,"275 aço, 105 AM III, 95 AM IV, 105 AM V, 3 Rare Alloys",5.03,https://foxhole.wiki.gg/wiki/O-75b_%22Ares%22
+Warden,Tanque scout,King Spire Mk. I,1350,MG 12.7 mm (-36% velocidade),sim,70 refinados,,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Tanque scout,King Gallant Mk. II,1350,Canhão 30 mm,nao,"1 King Spire, 5 PCM, 5 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Tanque scout,King Jester Mk. I-1,1350,Bateria de mísseis Shatter,nao,"1 King Spire, 5 aço, 15 AM I, 3 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Tanque leve,Devitt Mk. III,1950,Canhão 40 mm,nao,120 refinados,,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Tanque leve,Devitt Ironhide Mk. IV,1950,Canhão 40 mm,nao,"1 Devitt Mk. III, 8 PCM, 20 AM II, 5 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Tanque leve,Devitt-Caine Mk. IV MMR,1950,Morteiro,nao,"1 Devitt Mk. III, 3 PCM, 20 AM I, 3 AM IV",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Tanque leve,Sharkey-Devitt Birdeater Mk. I,1950,Canhão antiaéreo duplo,nao,125 refinados,,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Tanque de assalto,Silverhand - Mk. IV,3100,"Canhão 40 mm, canhão 68 mm",nao,160 refinados,,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Tanque de assalto,Silverhand Chieftain - Mk. VI,3100,"MG 12.7 mm dupla (+20% velocidade), morteiro 250 mm",sim,"1 Silverhand Mk. IV, 5 PCM, 10 AM I, 8 AM IV",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Tanque de assalto,Silverhand Lordscar - Mk. X,3100,Canhão 94.5 mm (-31.4% velocidade),nao,"1 Silverhand Mk. IV, 15 aço, 25 AM II, 25 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Tanque cruiser,Gallagher Brigand Mk. I,2950,"Canhão 30 mm, MG 7.92 mm",sim,150 refinados,,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Tanque cruiser,Gallagher Outlaw Mk. II,2950,"Canhão 40 mm longo (+20% velocidade), MG de casco 7.92 mm",sim,"1 Brigand, 10 PCM, 10 AM I, 10 AM IV",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Tanque cruiser,Gallagher Highwayman Mk. III,2950,"Canhão 14.5 mm duplo, MG 12.7 mm",sim,"1 Brigand, 5 PCM, 10 AM II, 5 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Tanque cruiser,Gallagher Thornfall Mk. VI,2650,"MG 7.92 mm, lançadores de morteiro Bonesaw",sim,"1 Brigand, 60 PCM, 10 AM I, 15 AM III, 15 AM IV",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Caça-tanque,Noble Widow MK. XIV,2200,Canhão 68 mm (+75% velocidade),nao,160 refinados,,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Caça-tanque,Noble Firebrand Mk. XVII,2200,Lança-chamas pesado,sim,"1 Noble Widow, 10 PCM, 10 AM II, 15 AM III",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Tanque de batalha,Flood Mk. I,5100,"Canhão 75 mm, MG 12.7 mm (-36% velocidade)",sim,"50 aço, 30 AM III, 60 AM IV, 35 AM V",7.22,https://foxhole.wiki.gg/wiki/Flood_Mk._I
+Warden,Tanque de batalha,Flood Mk. IX Stain,4800,Canhão de artilharia 150 mm,nao,"150 aço, 65 AM III, 40 AM IV, 85 AM V",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Tanque de batalha,Flood Juggernaut Mk. VII,5100,"Canhão 75 mm, lança-chamas pesado",sim,"40 aço, 65 AM III, 30 AM IV, 45 AM V",,https://foxhole.wiki.gg/wiki/Tanks
+Warden,Super tanque,Cullen Predator Mk. III,12000,"Canhão 94.5 mm (+25% velocidade), 2x lança-granadas quádruplo",sim,"275 aço, 105 AM III, 95 AM IV, 105 AM V, 3 Rare Alloys",7.22,https://foxhole.wiki.gg/wiki/Cullen_Predator_Mk._III

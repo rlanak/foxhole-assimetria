@@ -1,0 +1,17 @@
+faccao,classe,nome,hp,resistencia,armamento,custo,fonte
+Colonial,Metralhadora de campo,"G40 ""Sagittarii""",1850,Heavy Armoured,MG 12.7 mm (opção +20% velocidade),20 refinados,https://foxhole.wiki.gg/wiki/Field_Guns
+Colonial,Rifle AT de campo,"GA6 ""Cestus""",1600,Heavy Armoured,Rifle AT 14.5 mm,"1 G40, 30 materiais de construção, 20 AM II",https://foxhole.wiki.gg/wiki/Field_Guns
+Colonial,Canhão AT de campo,AA-2 Battering Ram,2850,Heavy Armoured,Canhão 68 mm,20 refinados,https://foxhole.wiki.gg/wiki/Field_Guns
+Colonial,Canhão de campo pesado,"40-45 ""Smelter""",4000,Heavy Armoured,Canhão 40 mm (opção +35% velocidade),"1 AA-2, 5 PCM, 5 AM IV",https://foxhole.wiki.gg/wiki/Field_Guns
+Colonial,Canhão de campo grande,"945g ""Stygian Bolt""",5000,Heavy Armoured,Canhão 94.5 mm (opção +50% velocidade),"1 AA-2, 15 SCM, 20 AM II, 15 AM III",https://foxhole.wiki.gg/wiki/Field_Guns
+Colonial,Artilharia de campo,"120-68 ""Koronides""",1000,Light Armoured,Canhão de artilharia leve 120 mm,50 refinados,https://foxhole.wiki.gg/wiki/Field_Guns
+Colonial,Morteiro de campo,"30-250 ""Tisiphone""",2450,Heavy Armoured,Morteiro 250 mm,35 refinados,https://foxhole.wiki.gg/wiki/Field_Guns
+Colonial,Morteiro de campo grande,"40-250 ""Alekto""",3750,Heavy Armoured,Morteiro 250 mm,"1 Tisiphone, 10 SCM, 20 AM II, 15 AM III",https://foxhole.wiki.gg/wiki/Field_Guns
+Warden,Metralhadora de campo,Swallowtail 988/127-2,1850,Heavy Armoured,MG 12.7 mm (opção +20% velocidade),20 refinados,https://foxhole.wiki.gg/wiki/Field_Guns
+Warden,Rifle AT de campo,Duncan's Coin 14.5mm,1600,Heavy Armoured,Rifle AT 14.5 mm (opção +25% velocidade),"1 Swallowtail, 30 materiais de construção, 20 AM II",https://foxhole.wiki.gg/wiki/Field_Guns
+Warden,Canhão AT de campo,Collins Cannon 68mm,2850,Heavy Armoured,Canhão 68 mm,20 refinados,https://foxhole.wiki.gg/wiki/Field_Guns
+Warden,Canhão de campo,Balfour Wolfhound 40mm,2850,Heavy Armoured,Canhão 40 mm,20 refinados,https://foxhole.wiki.gg/wiki/Field_Guns
+Warden,Canhão de campo pesado,Balfour Rampart 68mm,4000,Heavy Armoured,Canhão 68 mm (opção +25% velocidade),"1 Collins Cannon, 5 PCM, 5 AM IV",https://foxhole.wiki.gg/wiki/Field_Guns
+Warden,Canhão de campo grande,Balfour Stockade 75mm,5000,Heavy Armoured,Canhão 75 mm (opção +35% velocidade),"1 Wolfhound, 15 SCM, 20 AM II, 15 AM III",https://foxhole.wiki.gg/wiki/Field_Guns
+Warden,Lançador de campo,Rycker 4/3-F Wasp Nest,1000,Light Armoured,Bateria de foguetes 4C-Fire,"20 PCM, 15 AM II, 3 AM IV",https://foxhole.wiki.gg/wiki/Field_Guns
+Warden,Morteiro de campo,Balfour Falconer 250mm,2850,Heavy Armoured,Morteiro 250 mm,35 refinados,https://foxhole.wiki.gg/wiki/Field_Guns
